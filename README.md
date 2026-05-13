@@ -252,111 +252,23 @@ class MaryamMehboob:
 
 <div align="center">
 
-<table border="0" cellspacing="12" cellpadding="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-<table border="0" width="100%" cellpadding="0" cellspacing="0"
-  style="background:#161b22;border-left:4px solid #714B67;border-radius:8px;padding:20px;">
-<tr>
-<td style="padding:18px 20px 6px 20px;">
-<img src="https://img.shields.io/badge/▌▌▌▌▌-5.0%20%2F%205.0-714B67?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Verified-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td style="padding:10px 20px 10px 24px;color:#e6edf3;font-size:14px;line-height:1.7;font-style:italic;">
-&ldquo;&nbsp;Maryam is an excellent professional, and I am really happy with my site she made from scratch. She was always available, polite, keen to find solutions, and willing to perform at the highest level. I certainly recommend her.&nbsp;&rdquo;
-</td>
-</tr>
-<tr>
-<td style="padding:10px 20px 18px 20px;border-top:1px solid #30363d;">
-<strong style="color:#c9d1d9;">Adj. Prof. Dimitrios Tsoukas</strong><br/>
-<span style="color:#8b949e;font-size:12px;">Website Client &nbsp;·&nbsp; Greece</span>
-</td>
-</tr>
-</table>
-</td>
-<td width="50%" valign="top">
-<table border="0" width="100%" cellpadding="0" cellspacing="0"
-  style="background:#161b22;border-left:4px solid #714B67;border-radius:8px;padding:20px;">
-<tr>
-<td style="padding:18px 20px 6px 20px;">
-<img src="https://img.shields.io/badge/▌▌▌▌▌-5.0%20%2F%205.0-714B67?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Verified-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td style="padding:10px 20px 10px 24px;color:#e6edf3;font-size:14px;line-height:1.7;font-style:italic;">
-&ldquo;&nbsp;Maryam completed my coding task in record time, exceeding all expectations. Her patience and professionalism stood out even as we collaborated seamlessly. I couldn't be more impressed.&nbsp;&rdquo;
-</td>
-</tr>
-<tr>
-<td style="padding:10px 20px 18px 20px;border-top:1px solid #30363d;">
-<strong style="color:#c9d1d9;">Emmanuel Bisi-Ayeni</strong><br/>
-<span style="color:#8b949e;font-size:12px;">Development Client &nbsp;·&nbsp; International</span>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-
-<tr><td colspan="2" height="12"></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-<table border="0" width="100%" cellpadding="0" cellspacing="0"
-  style="background:#161b22;border-left:4px solid #A0522D;border-radius:8px;padding:20px;">
-<tr>
-<td style="padding:18px 20px 6px 20px;">
-<img src="https://img.shields.io/badge/▌▌▌▌▌-5.0%20%2F%205.0-A0522D?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Verified-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td style="padding:10px 20px 10px 24px;color:#e6edf3;font-size:14px;line-height:1.7;font-style:italic;">
-&ldquo;&nbsp;Maryam always finds a way to realize my wishes on the webpage. She was creative with logo and colors and found solutions for building a website on German servers. The correspondence was easy and she explained everything very well.&nbsp;&rdquo;
-</td>
-</tr>
-<tr>
-<td style="padding:10px 20px 18px 20px;border-top:1px solid #30363d;">
-<strong style="color:#c9d1d9;">Verena Webr</strong><br/>
-<span style="color:#8b949e;font-size:12px;">Upwork Client &nbsp;·&nbsp; Germany</span>
-</td>
-</tr>
-</table>
-</td>
-<td width="50%" valign="top">
-<table border="0" width="100%" cellpadding="0" cellspacing="0"
-  style="background:#161b22;border-left:4px solid #A0522D;border-radius:8px;padding:20px;">
-<tr>
-<td style="padding:18px 20px 6px 20px;">
-<img src="https://img.shields.io/badge/▌▌▌▌▌-5.0%20%2F%205.0-A0522D?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Verified-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td style="padding:10px 20px 10px 24px;color:#e6edf3;font-size:14px;line-height:1.7;font-style:italic;">
-&ldquo;&nbsp;Maryam is an incredible asset in any ERP environment and brings a fantastic work ethic to everything she does. She is a pleasure to work with, consistently demonstrating professionalism and commitment to high-quality solutions.&nbsp;&rdquo;
-</td>
-</tr>
-<tr>
-<td style="padding:10px 20px 18px 20px;border-top:1px solid #30363d;">
-<strong style="color:#c9d1d9;">Casey Skeens</strong><br/>
-<span style="color:#8b949e;font-size:12px;">Business Development &nbsp;·&nbsp; USA</span>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+| &nbsp; | &nbsp; |
+|:---:|:---:|
+| <img src="https://img.shields.io/badge/─────────────────────────────-714B67?style=for-the-badge" /> | <img src="https://img.shields.io/badge/─────────────────────────────-714B67?style=for-the-badge" /> |
+| <img src="https://img.shields.io/badge/Verified%20Review-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/5.0%20%2F%205.0-%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0-714B67?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Verified%20Review-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/5.0%20%2F%205.0-%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0-714B67?style=for-the-badge" /> |
+| *&ldquo; Maryam is an excellent professional. Happy with my site she made from scratch. Always available, polite, keen to find solutions and willing to perform at the highest level. I certainly recommend her. &rdquo;* | *&ldquo; Maryam completed my coding task in record time, exceeding all expectations. Her patience and professionalism stood out even as we collaborated seamlessly. I couldn't be more impressed. &rdquo;* |
+| <img src="https://img.shields.io/badge/Adj.%20Prof.%20Dimitrios%20Tsoukas-Website%20Client%20%7C%20Greece-555?style=flat-square" /> | <img src="https://img.shields.io/badge/Emmanuel%20Bisi--Ayeni-Development%20Client%20%7C%20International-555?style=flat-square" /> |
+| <img src="https://img.shields.io/badge/─────────────────────────────-714B67?style=for-the-badge" /> | <img src="https://img.shields.io/badge/─────────────────────────────-714B67?style=for-the-badge" /> |
+| &nbsp; | &nbsp; |
+| <img src="https://img.shields.io/badge/─────────────────────────────-A0522D?style=for-the-badge" /> | <img src="https://img.shields.io/badge/─────────────────────────────-A0522D?style=for-the-badge" /> |
+| <img src="https://img.shields.io/badge/Verified%20Review-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/5.0%20%2F%205.0-%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0-A0522D?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Verified%20Review-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/5.0%20%2F%205.0-%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0-A0522D?style=for-the-badge" /> |
+| *&ldquo; Maryam always finds a way to realize my wishes. Creative with logo and colors, found solutions for building on German servers. Correspondence was easy and she explained the backend very well. &rdquo;* | *&ldquo; Maryam is an incredible asset in any ERP environment and brings a fantastic work ethic. A pleasure to work with, consistently demonstrating professionalism and commitment to high-quality solutions. &rdquo;* |
+| <img src="https://img.shields.io/badge/Verena%20Webr-Upwork%20Client%20%7C%20Germany-555?style=flat-square" /> | <img src="https://img.shields.io/badge/Casey%20Skeens-Business%20Development%20%7C%20USA-555?style=flat-square" /> |
+| <img src="https://img.shields.io/badge/─────────────────────────────-A0522D?style=for-the-badge" /> | <img src="https://img.shields.io/badge/─────────────────────────────-A0522D?style=for-the-badge" /> |
 
 <br/>
 
-<img src="https://img.shields.io/badge/All%20Reviews%20Verified%20%7C%204%20Clients%20%7C%20Avg%20Rating%205.0%2F5.0-714B67?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/All%20Reviews%20Verified%20%7C%204%20Clients%20%7C%20Average%20Rating%205.0%2F5.0-714B67?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 </div>
 
