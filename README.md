@@ -248,48 +248,91 @@ class MaryamMehboob:
 
 <br/>
 
-## What Clients Say
+## Client Testimonials
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 10px;">
 
-> ⭐⭐⭐⭐⭐
-> *"Maryam is an excellent professional, and I am really happy with my site that she made from scratch! She was always available, polite, keen to find solutions, and willing to perform at the highest level. I certainly do recommend her!"*
->
-> **— Adj. Prof. Dimitrios Tsoukas** 🇬🇷
+<img src="https://img.shields.io/badge/Verified%20Client-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Rating-5.0%2F5.0-714B67?style=flat-square" />
+
+<br/><br/>
+
+**" Maryam is an excellent professional, and I am really happy with my site that she made from scratch! She was always available, polite, keen to find solutions, and willing to perform at the highest level. I certainly do recommend her! "**
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Adj.%20Prof.%20Dimitrios%20Tsoukas-555?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Greece-Website%20Client-714B67?style=flat-square" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 10px;">
 
-> ⭐⭐⭐⭐⭐
-> *"Maryam completed my short coding task in record time, exceeding all expectations. Her patience and professionalism stood out, even as we collaborated seamlessly over WhatsApp."*
->
-> **— Emmanuel Bisi-Ayeni** 🌍
+<img src="https://img.shields.io/badge/Verified%20Client-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Rating-5.0%2F5.0-714B67?style=flat-square" />
+
+<br/><br/>
+
+**" Maryam completed my short coding task in record time, exceeding all expectations. Her patience and professionalism stood out, even as we collaborated seamlessly over WhatsApp. I couldn't be more impressed! "**
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Emmanuel%20Bisi--Ayeni-555?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/International-Dev%20Client-714B67?style=flat-square" />
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-> ⭐⭐⭐⭐⭐
-> *"Maryam always finds a way to realize my wishes on the webpage. She was creative with logo and colors and found solutions for building a website on German servers."*
->
-> **— Verena Webr** 🇩🇪 *(Upwork Client)*
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top" style="padding: 10px;">
+
+<img src="https://img.shields.io/badge/Verified%20Client-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Rating-5.0%2F5.0-714B67?style=flat-square" />
+
+<br/><br/>
+
+**" Maryam always finds a way to realize my wishes on the webpage. She was creative with logo and colors and found solutions for the challenges of building a website on German servers. The correspondence was easy and professional. "**
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Verena%20Webr-555?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Germany-Upwork%20Client-714B67?style=flat-square" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 10px;">
 
-> ⭐⭐⭐⭐⭐
-> *"Maryam is an incredible asset in any ERP environment and brings a fantastic work ethic to everything she does. She is a pleasure to work with and learn alongside."*
->
-> **— Casey Skeens** 🇺🇸 *(Business Development)*
+<img src="https://img.shields.io/badge/Verified%20Client-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Rating-5.0%2F5.0-714B67?style=flat-square" />
+
+<br/><br/>
+
+**" Maryam is an incredible asset in any ERP environment and brings a fantastic work ethic to everything she does. She is a pleasure to work with and learn alongside, consistently demonstrating professionalism and commitment. "**
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Casey%20Skeens-555?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/USA-Business%20Development-714B67?style=flat-square" />
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/All%20Reviews%20Verified-4%20Clients%20%7C%20Average%205.0%2F5.0-714B67?style=for-the-badge" />
 
 </div>
 
