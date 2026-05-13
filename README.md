@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,50:A0522D,100:714B67&height=240&section=header&text=Maryam%20Mehboob&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%F0%9F%8C%B9%20Odoo%20Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ERP%20Specialist&descAlignY=58&descSize=17&descColor=f5c6e0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,50:A0522D,100:714B67&height=240&section=header&text=Maryam%20Mehboob&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Odoo%20Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ERP%20Specialist&descAlignY=58&descSize=17&descColor=f5c6e0" width="100%"/>
 </div>
 
 <div align="center">
@@ -30,19 +30,19 @@
 <tr>
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years-714B67?style=flat-square&logoColor=white" /><br/>
-  <b>🏆 Experience</b>
+  <b>Experience</b>
 </td>
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/Upwork-%E2%AD%90%205.0%2F5.0-14a800?style=flat-square" /><br/>
-  <b>⭐ Client Rating</b>
+  <b>Client Rating</b>
 </td>
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/Products%20Imported-10%2C000%2B-blue?style=flat-square" /><br/>
-  <b>📦 Data Migrated</b>
+  <b>Data Migrated</b>
 </td>
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/Odoo-v14%20to%20v19-714B67?style=flat-square" /><br/>
-  <b>🔢 Versions</b>
+  <b>Odoo Versions</b>
 </td>
 </tr>
 </table>
@@ -53,7 +53,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👩‍💻 About Me
+## About Me
 
 ```python
 # ╔══════════════════════════════════════════════════════════╗
@@ -96,18 +96,18 @@ class MaryamMehboob:
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-**🟣 Odoo & Backend**
+**Odoo & Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logoColor=white)
 
-**⚛️ Frontend & Mobile**
+**Frontend & Mobile**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -116,12 +116,12 @@ class MaryamMehboob:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**🌐 CMS & Marketing**
+**CMS & Marketing**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
-**⚙️ DevOps & Tools**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -136,30 +136,30 @@ class MaryamMehboob:
 
 <br/>
 
-## 🟣 Odoo Expertise
+## Odoo Expertise
 
 <div align="center">
 
-| 🟣 Core Development | 🔧 Customization |
+| Core Development | Customization |
 |---|---|
-| ✅ Custom Module Development | ✅ Odoo Studio & Business Process |
-| ✅ Odoo Community & Enterprise | ✅ QWeb Reports — PDF & Excel |
-| ✅ OWL Framework (Odoo Web Library) | ✅ Custom Views — Form, Tree, Kanban |
-| ✅ Odoo ORM & Controllers | ✅ Server Actions & Scheduled Tasks |
+| ◆ Custom Module Development | ◆ Odoo Studio & Business Process |
+| ◆ Odoo Community & Enterprise | ◆ QWeb Reports — PDF & Excel |
+| ◆ OWL Framework (Odoo Web Library) | ◆ Custom Views — Form, Tree, Kanban |
+| ◆ Odoo ORM & Controllers | ◆ Server Actions & Scheduled Tasks |
 
-| 🔗 Integration | 📊 Data & Operations |
+| Integration | Data & Operations |
 |---|---|
-| ✅ REST API & JSON-RPC Integration | ✅ Large Dataset Import (10,000+ Products) |
-| ✅ Payment Gateway Integration | ✅ CSV/Excel Data Migration |
-| ✅ Third-Party System Connectors | ✅ Performance & DB Optimization |
-| ✅ Shipping & Logistics APIs | ✅ Odoo Version Migration (v14 to v19) |
+| ◆ REST API & JSON-RPC Integration | ◆ Large Dataset Import (10,000+ Products) |
+| ◆ Payment Gateway Integration | ◆ CSV/Excel Data Migration |
+| ◆ Third-Party System Connectors | ◆ Performance & DB Optimization |
+| ◆ Shipping & Logistics APIs | ◆ Odoo Version Migration (v14 to v19) |
 
-| 🏢 Business Modules | 🔐 Security & Config |
+| Business Modules | Security & Config |
 |---|---|
-| ✅ Sales, CRM, Invoicing | ✅ Access Rights & Record Rules |
-| ✅ Inventory & Warehouse | ✅ Multi-Company & Multi-Warehouse |
-| ✅ HR, Payroll & Attendance | ✅ Security Groups & Profiles |
-| ✅ POS & E-commerce | ✅ Automated Workflows & Alerts |
+| ◆ Sales, CRM, Invoicing | ◆ Access Rights & Record Rules |
+| ◆ Inventory & Warehouse | ◆ Multi-Company & Multi-Warehouse |
+| ◆ HR, Payroll & Attendance | ◆ Security Groups & Profiles |
+| ◆ POS & E-commerce | ◆ Automated Workflows & Alerts |
 
 </div>
 
@@ -167,26 +167,26 @@ class MaryamMehboob:
 
 <br/>
 
-## 💼 Work Experience
+## Work Experience
 
 <details open>
-<summary><b>🏢 Odoo Engineer — Portlandia Electric Supply, USA · Remote</b> &nbsp;|&nbsp; Aug 2025 – Jan 2026</summary>
+<summary><b>Odoo Engineer — Portlandia Electric Supply, USA · Remote</b> &nbsp;|&nbsp; Aug 2025 – Jan 2026</summary>
 <br/>
 
 > Delivered end-to-end Odoo ERP solutions for a US-based electrical supply company
 
-- 🔧 Developed and customized Odoo modules for core business operations
-- 📦 Implemented ERP across **Sales, Inventory, Accounting, and CRM**
-- 🎨 Customized Odoo views, QWeb reports, security rules & access controls
-- 🔗 Integrated third-party services and REST APIs with Odoo backend
-- 🐛 Provided technical support, bug fixes, and performance optimizations
+- Developed and customized Odoo modules for core business operations
+- Implemented ERP across **Sales, Inventory, Accounting, and CRM**
+- Customized Odoo views, QWeb reports, security rules & access controls
+- Integrated third-party services and REST APIs with Odoo backend
+- Provided technical support, bug fixes, and performance optimizations
 
 </details>
 
 <br/>
 
 <details open>
-<summary><b>⭐ Freelance Odoo Consultant — Upwork · Remote</b> &nbsp;|&nbsp; Jun 2025 – Sep 2025 &nbsp;|&nbsp; ⭐ 5.0 / 5.0</summary>
+<summary><b>Freelance Odoo Consultant — Upwork · Remote</b> &nbsp;|&nbsp; Jun 2025 – Sep 2025 &nbsp;|&nbsp; ⭐ 5.0 / 5.0</summary>
 <br/>
 
 **🇺🇸 Odoo Expert – AI Problem Solving Evaluation** *(Jul–Sep 2025)*
@@ -205,20 +205,20 @@ class MaryamMehboob:
 <br/>
 
 <details open>
-<summary><b>🌐 Freelance Web Developer — Remote</b> &nbsp;|&nbsp; 2022 – Present &nbsp;|&nbsp; ⭐ 5.0 / 5.0</summary>
+<summary><b>Freelance Web Developer — Remote</b> &nbsp;|&nbsp; 2022 – Present &nbsp;|&nbsp; ⭐ 5.0 / 5.0</summary>
 <br/>
 
-- 🌍 Built custom websites for professionals, doctors, and businesses worldwide
-- ⚛️ Developed full-stack **MERN** web application and **Flutter** mobile app
-- 🚀 Built high-converting sales funnels using **Kajabi, Zapier, GoHighLevel**
-- 📈 Improved client website performance, branding, and user experience
+- Built custom websites for professionals, doctors, and businesses worldwide
+- Developed full-stack **MERN** web application and **Flutter** mobile app
+- Built high-converting sales funnels using **Kajabi, Zapier, GoHighLevel**
+- Improved client website performance, branding, and user experience
 
 </details>
 
 <br/>
 
 <details open>
-<summary><b>🎓 Campus Ambassador — Devsinc, COMSATS CUI Islamabad</b> &nbsp;|&nbsp; Mar 2025 – Present</summary>
+<summary><b>Campus Ambassador — Devsinc, COMSATS CUI Islamabad</b> &nbsp;|&nbsp; Mar 2025 – Present</summary>
 <br/>
 
 - Represented Devsinc at university-level tech & professional events
@@ -230,17 +230,17 @@ class MaryamMehboob:
 
 <br/>
 
-## 🏅 Certifications & Events
+## Certifications & Events
 
 <div align="center">
 
-| 🎖️ Certificate | 🏢 Issuer | 📅 Year |
+| Certificate | Issuer | Year |
 |---|---|---|
-| 🤖 Generative AI: Introduction and Applications | IBM | 2025 |
-| ⚛️ React – State Management in Functional Components (HOOKS) | Coursera | 2025 |
-| 📢 Amazon Sponsored Ads Certification | Amazon | 2022 |
-| 🌐 Core Commit Global Meetup — Web3 & Core DAO | Core DAO & Rise In | 2025 |
-| 🤖 Google DevFest — Explainable AI Workshop | Google | 2024 |
+| Generative AI: Introduction and Applications | IBM | 2025 |
+| React – State Management in Functional Components (HOOKS) | Coursera | 2025 |
+| Amazon Sponsored Ads Certification | Amazon | 2022 |
+| Core Commit Global Meetup — Web3 & Core DAO | Core DAO & Rise In | 2025 |
+| Google DevFest — Explainable AI Workshop | Google | 2024 |
 
 </div>
 
@@ -248,7 +248,7 @@ class MaryamMehboob:
 
 <br/>
 
-## 🌟 What Clients Say
+## What Clients Say
 
 <div align="center">
 
@@ -297,7 +297,7 @@ class MaryamMehboob:
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maryammehboob786&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=714B67&icon_color=714B67&text_color=ffffff&bg_color=0d1117" height="170"/>
@@ -316,7 +316,7 @@ class MaryamMehboob:
 
 <br/>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maryammehboob786&theme=radical&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
@@ -326,11 +326,11 @@ class MaryamMehboob:
 
 <br/>
 
-## 🤝 Let's Connect & Build Together
+## Let's Connect & Build Together
 
 <div align="center">
 
-💼 **Open for:** Odoo Projects · Full-Stack Development · Freelance · ERP Consulting
+**Open for:** Odoo Projects &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; ERP Consulting
 
 <br/>
 
