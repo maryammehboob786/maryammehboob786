@@ -252,87 +252,111 @@ class MaryamMehboob:
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="12" cellpadding="0" width="100%">
 <tr>
-<td width="50%" valign="top" style="padding: 10px;">
-
-<img src="https://img.shields.io/badge/Verified%20Client-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+<td width="50%" valign="top">
+<table border="0" width="100%" cellpadding="0" cellspacing="0"
+  style="background:#161b22;border-left:4px solid #714B67;border-radius:8px;padding:20px;">
+<tr>
+<td style="padding:18px 20px 6px 20px;">
+<img src="https://img.shields.io/badge/▌▌▌▌▌-5.0%20%2F%205.0-714B67?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/Rating-5.0%2F5.0-714B67?style=flat-square" />
-
-<br/><br/>
-
-**" Maryam is an excellent professional, and I am really happy with my site that she made from scratch! She was always available, polite, keen to find solutions, and willing to perform at the highest level. I certainly do recommend her! "**
-
-<br/>
-
-<img src="https://img.shields.io/badge/-Adj.%20Prof.%20Dimitrios%20Tsoukas-555?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Greece-Website%20Client-714B67?style=flat-square" />
-
+<img src="https://img.shields.io/badge/Verified-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </td>
-<td width="50%" valign="top" style="padding: 10px;">
-
-<img src="https://img.shields.io/badge/Verified%20Client-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</tr>
+<tr>
+<td style="padding:10px 20px 10px 24px;color:#e6edf3;font-size:14px;line-height:1.7;font-style:italic;">
+&ldquo;&nbsp;Maryam is an excellent professional, and I am really happy with my site she made from scratch. She was always available, polite, keen to find solutions, and willing to perform at the highest level. I certainly recommend her.&nbsp;&rdquo;
+</td>
+</tr>
+<tr>
+<td style="padding:10px 20px 18px 20px;border-top:1px solid #30363d;">
+<strong style="color:#c9d1d9;">Adj. Prof. Dimitrios Tsoukas</strong><br/>
+<span style="color:#8b949e;font-size:12px;">Website Client &nbsp;·&nbsp; Greece</span>
+</td>
+</tr>
+</table>
+</td>
+<td width="50%" valign="top">
+<table border="0" width="100%" cellpadding="0" cellspacing="0"
+  style="background:#161b22;border-left:4px solid #714B67;border-radius:8px;padding:20px;">
+<tr>
+<td style="padding:18px 20px 6px 20px;">
+<img src="https://img.shields.io/badge/▌▌▌▌▌-5.0%20%2F%205.0-714B67?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/Rating-5.0%2F5.0-714B67?style=flat-square" />
-
-<br/><br/>
-
-**" Maryam completed my short coding task in record time, exceeding all expectations. Her patience and professionalism stood out, even as we collaborated seamlessly over WhatsApp. I couldn't be more impressed! "**
-
-<br/>
-
-<img src="https://img.shields.io/badge/-Emmanuel%20Bisi--Ayeni-555?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/International-Dev%20Client-714B67?style=flat-square" />
-
+<img src="https://img.shields.io/badge/Verified-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td style="padding:10px 20px 10px 24px;color:#e6edf3;font-size:14px;line-height:1.7;font-style:italic;">
+&ldquo;&nbsp;Maryam completed my coding task in record time, exceeding all expectations. Her patience and professionalism stood out even as we collaborated seamlessly. I couldn't be more impressed.&nbsp;&rdquo;
+</td>
+</tr>
+<tr>
+<td style="padding:10px 20px 18px 20px;border-top:1px solid #30363d;">
+<strong style="color:#c9d1d9;">Emmanuel Bisi-Ayeni</strong><br/>
+<span style="color:#8b949e;font-size:12px;">Development Client &nbsp;·&nbsp; International</span>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 
-<tr><td colspan="2"><br/></td></tr>
+<tr><td colspan="2" height="12"></td></tr>
 
 <tr>
-<td width="50%" valign="top" style="padding: 10px;">
-
-<img src="https://img.shields.io/badge/Verified%20Client-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white" />
+<td width="50%" valign="top">
+<table border="0" width="100%" cellpadding="0" cellspacing="0"
+  style="background:#161b22;border-left:4px solid #A0522D;border-radius:8px;padding:20px;">
+<tr>
+<td style="padding:18px 20px 6px 20px;">
+<img src="https://img.shields.io/badge/▌▌▌▌▌-5.0%20%2F%205.0-A0522D?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/Rating-5.0%2F5.0-714B67?style=flat-square" />
-
-<br/><br/>
-
-**" Maryam always finds a way to realize my wishes on the webpage. She was creative with logo and colors and found solutions for the challenges of building a website on German servers. The correspondence was easy and professional. "**
-
-<br/>
-
-<img src="https://img.shields.io/badge/-Verena%20Webr-555?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/Germany-Upwork%20Client-714B67?style=flat-square" />
-
+<img src="https://img.shields.io/badge/Verified-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white" />
 </td>
-<td width="50%" valign="top" style="padding: 10px;">
-
-<img src="https://img.shields.io/badge/Verified%20Client-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white" />
+</tr>
+<tr>
+<td style="padding:10px 20px 10px 24px;color:#e6edf3;font-size:14px;line-height:1.7;font-style:italic;">
+&ldquo;&nbsp;Maryam always finds a way to realize my wishes on the webpage. She was creative with logo and colors and found solutions for building a website on German servers. The correspondence was easy and she explained everything very well.&nbsp;&rdquo;
+</td>
+</tr>
+<tr>
+<td style="padding:10px 20px 18px 20px;border-top:1px solid #30363d;">
+<strong style="color:#c9d1d9;">Verena Webr</strong><br/>
+<span style="color:#8b949e;font-size:12px;">Upwork Client &nbsp;·&nbsp; Germany</span>
+</td>
+</tr>
+</table>
+</td>
+<td width="50%" valign="top">
+<table border="0" width="100%" cellpadding="0" cellspacing="0"
+  style="background:#161b22;border-left:4px solid #A0522D;border-radius:8px;padding:20px;">
+<tr>
+<td style="padding:18px 20px 6px 20px;">
+<img src="https://img.shields.io/badge/▌▌▌▌▌-5.0%20%2F%205.0-A0522D?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/Rating-5.0%2F5.0-714B67?style=flat-square" />
-
-<br/><br/>
-
-**" Maryam is an incredible asset in any ERP environment and brings a fantastic work ethic to everything she does. She is a pleasure to work with and learn alongside, consistently demonstrating professionalism and commitment. "**
-
-<br/>
-
-<img src="https://img.shields.io/badge/-Casey%20Skeens-555?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/USA-Business%20Development-714B67?style=flat-square" />
-
+<img src="https://img.shields.io/badge/Verified-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td style="padding:10px 20px 10px 24px;color:#e6edf3;font-size:14px;line-height:1.7;font-style:italic;">
+&ldquo;&nbsp;Maryam is an incredible asset in any ERP environment and brings a fantastic work ethic to everything she does. She is a pleasure to work with, consistently demonstrating professionalism and commitment to high-quality solutions.&nbsp;&rdquo;
+</td>
+</tr>
+<tr>
+<td style="padding:10px 20px 18px 20px;border-top:1px solid #30363d;">
+<strong style="color:#c9d1d9;">Casey Skeens</strong><br/>
+<span style="color:#8b949e;font-size:12px;">Business Development &nbsp;·&nbsp; USA</span>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/All%20Reviews%20Verified-4%20Clients%20%7C%20Average%205.0%2F5.0-714B67?style=for-the-badge" />
+<img src="https://img.shields.io/badge/All%20Reviews%20Verified%20%7C%204%20Clients%20%7C%20Avg%20Rating%205.0%2F5.0-714B67?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 </div>
 
